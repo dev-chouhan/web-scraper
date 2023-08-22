@@ -1,4 +1,4 @@
-Web scraping, web data extracting or web harvesting is a data scraping tool used to extract data from website legally or in-legally.
+<h1>Web scraping</h1>, web data extracting or web harvesting is a data scraping tool used to extract data from website legally or in-legally.
 They harvest data from systems owned by third parties. Any website that use HTML can be extracted through this tool.
 There are 2 ways to extract data from any website: API or HTML Scraping.
 Most website provides API to secure their data from getting scraped unintentionally ex. facebook, linkedIN, youtube, eBay, etc.
